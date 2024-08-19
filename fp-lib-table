@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "grove_2mm_4pin_ra")(type "KiCad")(uri "${KIPRJMOD}/grove_2mm_4pin_ra.pretty")(options "")(descr ""))
+)
