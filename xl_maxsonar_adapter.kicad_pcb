@@ -84,7 +84,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "production/v0p1_r1/gerber/")
+      (outputdirectory "production/v0p1_r2/gerber/")
     )
   )
 
@@ -234,7 +234,7 @@
     (stroke (width 0.2) (type default)) (layer "Edge.Cuts") (tstamp b91b0733-e3b7-4904-ac8c-fa4b1ac7fe57))
   (gr_line (start 58 65.8) (end 58 68.25)
     (stroke (width 0.2) (type default)) (layer "Edge.Cuts") (tstamp d315178c-d2b2-4fbc-867b-95f5f14ab8a5))
-  (gr_text "XL MaxSonar \nAdapter v0.1\nwww.iorodeo.com" (at 54.2 59.3 270) (layer "B.SilkS") (tstamp 12105c3b-2113-4881-a5d0-f7879beca465)
+  (gr_text "XL MaxSonar \nAdapter v0.1 R2\nwww.iorodeo.com" (at 54.1 59.3 270) (layer "B.SilkS") (tstamp 12105c3b-2113-4881-a5d0-f7879beca465)
     (effects (font (size 1 1) (thickness 0.15)) (justify bottom mirror))
   )
   (gr_text "GND" (at 57.4 63.2) (layer "F.SilkS") (tstamp 4c505e00-e682-4891-86bc-1705991622ad)
